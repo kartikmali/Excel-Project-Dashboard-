@@ -1,2 +1,2 @@
-# Excel-Project-Dashboard-
+# Excel-Project-
 Excel sales dashboard
